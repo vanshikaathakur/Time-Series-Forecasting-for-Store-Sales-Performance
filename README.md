@@ -113,9 +113,6 @@ The Random Forest Regressor is recommended for sales prediction in this dataset,
 - Hyperparameter tuning for better accuracy.
 - Handling potential multicollinearity (e.g., Profit is highly correlated with Sales).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Dataset inspired by retail sales benchmarks (e.g., Superstore dataset).
 - Built using open-source libraries: pandas, scikit-learn, XGBoost.
